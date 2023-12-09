@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RyanNuggets
+- 👀 I’m interested in | JavaScript & Discord Bots
+- 🌱 I’m currently learning | Discord.js V14
+- 📫 How to reach me | Discord @RyanNuggets3
